@@ -5,7 +5,7 @@
 <br/>
 <img src="https://user-images.githubusercontent.com/65753345/84465639-7f698780-acb2-11ea-8370-b4af30ec9478.jpg" width="120px">
 
-<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/" target="_blank">Amazon製品ページ</a>
+<img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/dp/B08B32XW92" target="_blank">Amazon製品ページ</a>
 <br/>
 
 ## <img src="https://user-images.githubusercontent.com/65753345/83377381-62aa9580-a410-11ea-9313-8d4deca07672.png" width="20px">&ensp;内容紹介
