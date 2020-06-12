@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: タイトル：『料理本を出版しよう。』
-description: 書籍のサポートページへようこそ
+title: 書籍のサポートページ：料理本を出版しよう。
+description: サポートページへようこそ
 github:
   is_project_page: false
 gems:
