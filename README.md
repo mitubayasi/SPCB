@@ -1,10 +1,10 @@
 [サンプルファイル](#jump-there1)  　　　[Toc-Deleter (目次編集ツール)](#jump-there2)  　　　[EPUBビュアー](#jump-there3) 　　　[正誤情報](#jump-there4)
 <br/>
 <br/>
+<img src="https://user-images.githubusercontent.com/65753345/85251600-ac791f80-b494-11ea-92a0-8eb588daacb7.JPG" width="680px">　
+
 このページは、Amazonで販売中の書籍「料理本を出版しよう。」のサポートページです。  
 <br/>
-<img src="https://user-images.githubusercontent.com/65753345/84465639-7f698780-acb2-11ea-8370-b4af30ec9478.jpg" width="120px">
-
 <img src="https://user-images.githubusercontent.com/62088244/76576777-7c6dc800-6506-11ea-9b86-0894fb827c7e.png" width="20px">&ensp;<a href="https://www.amazon.co.jp/dp/B08B32XW92" target="_blank">Amazon製品ページ</a>
 <br/>
 
